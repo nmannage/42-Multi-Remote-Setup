@@ -19,6 +19,12 @@ What it does
     Provides simple scripts to push to both remotes
 
 ## Setup
+
+Download file
+```
+curl -o fix-and-setup.sh https://raw.githubusercontent.com/nmannage/42-Multi-Remote-Setup/refs/heads/main/fix-and-setup.sh
+```
+
 1. Configure your details
 
 Edit fix-and-setup.sh and update these three lines at the top:
